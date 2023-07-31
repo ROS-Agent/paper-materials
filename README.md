@@ -27,8 +27,8 @@
 - [代码](https://github.com/autowarefoundation/autoware.universe/blob/galactic/control/trajectory_follower/design/trajectory_follower-design.md)细节文档。横向控制采用[MPC](https://github.com/autowarefoundation/autoware.universe/blob/galactic/control/trajectory_follower/design/mpc_lateral_controller-design.md)，纵向控制采用[PID](https://github.com/autowarefoundation/autoware.universe/blob/galactic/control/trajectory_follower/design/pid_longitudinal_controller-design.md)
 
 1、车辆运动学模型在控制中的应用  
-[数学模型](https://www.ri.cmu.edu/pub_files/2009/2/Automatic_Steering_Methods_for_Autonomous_Automobile_Path_Tracking.pdf)，参考CMU教材第18页。
+[数学模型](https://www.ri.cmu.edu/pub_files/2009/2/Automatic_Steering_Methods_for_Autonomous_Automobile_Path_Tracking.pdf)，参考CMU教材第18页。  
 2、车辆动力学模型在控制中的应用  
-[数学模型](https://www.ri.cmu.edu/pub_files/2009/2/Automatic_Steering_Methods_for_Autonomous_Automobile_Path_Tracking.pdf)，参考CMU教材第28页。
+[数学模型](https://www.ri.cmu.edu/pub_files/2009/2/Automatic_Steering_Methods_for_Autonomous_Automobile_Path_Tracking.pdf)，参考CMU教材第28页。  
 
 备注：以上两种数学模型仅用于横向MPC控制。
