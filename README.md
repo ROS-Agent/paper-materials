@@ -1,14 +1,14 @@
 ## 决策
 1、[OpenPlanner](https://www.jstage.jst.go.jp/article/jrobomech/29/4/29_668/_pdf/-char/ja)：全局规划+决策状态机+局部规划，是autoware官方的决策规划模块。
-- open-planner的整体架构图
+- open-planner的整体架构图  
 ![Alt text](./doc/image.png)
-- 有限状态机概览图
+- 有限状态机概览图  
 ![Alt text](./doc/image-1.png)
-- 有限状态机状态间切换条件
+- 有限状态机状态间切换条件  
 ![Alt text](./doc/image-2.png)
 
 2、autoware官方[设计文档](https://autowarefoundation.github.io/autoware-documentation/galactic/design/autoware-architecture/planning/#1-self-crossing-road-and-overlapped)。
-- 决策详细架构图![](./doc/image-3.png) 
+- 决策详细架构图![](./doc/image-3.png)  
 图片看不清，可参考下面的SVG图。
 - autoware整体[详细架构图](https://app.diagrams.net/?lightbox=1#Uhttps%3A%2F%2Fautowarefoundation.github.io%2Fautoware-documentation%2Fgalactic%2Fdesign%2Fautoware-architecture%2Fnode-diagram%2Foverall-node-diagram-autoware-universe.drawio.svg)
 
