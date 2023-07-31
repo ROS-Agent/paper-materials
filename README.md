@@ -10,7 +10,7 @@
 2、autoware官方[设计文档](https://autowarefoundation.github.io/autoware-documentation/galactic/design/autoware-architecture/planning/#1-self-crossing-road-and-overlapped)。
 - 决策详细架构图![](./doc/image-3.png)  
 图片看不清，可参考下面的SVG图。
-- autoware整体[详细架构图](https://app.diagrams.net/?lightbox=1#Uhttps%3A%2F%2Fautowarefoundation.github.io%2Fautoware-documentation%2Fgalactic%2Fdesign%2Fautoware-architecture%2Fnode-diagram%2Foverall-node-diagram-autoware-universe.drawio.svg)
+- autoware整体[详细架构图(SVG)](https://app.diagrams.net/?lightbox=1#Uhttps%3A%2F%2Fautowarefoundation.github.io%2Fautoware-documentation%2Fgalactic%2Fdesign%2Fautoware-architecture%2Fnode-diagram%2Foverall-node-diagram-autoware-universe.drawio.svg)
 
 ## 规划
 1、全局规划，[MissionPlanner](https://autowarefoundation.github.io/autoware.universe/main/planning/mission_planner/)。论文中提到这里使用高精地图（路网）作为输入，规划出一条从起点到终点的路径。OpenPlanner论文中提到使用的是DP算法（Dynamic Programming）, 本质上是与A star类似的方法。
