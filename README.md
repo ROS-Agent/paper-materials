@@ -8,7 +8,7 @@
 ![Alt text](./doc/image-2.png)
 
 2、autoware官方[设计文档](https://autowarefoundation.github.io/autoware-documentation/galactic/design/autoware-architecture/planning/#1-self-crossing-road-and-overlapped)。
-- 决策详细架构图![](./doc/image-3.png)  
+- 决策详细架构图  ![](./doc/image-3.png)  
 图片看不清，可参考下面的SVG图。
 - autoware整体[详细架构图(SVG)](https://app.diagrams.net/?lightbox=1#Uhttps%3A%2F%2Fautowarefoundation.github.io%2Fautoware-documentation%2Fgalactic%2Fdesign%2Fautoware-architecture%2Fnode-diagram%2Foverall-node-diagram-autoware-universe.drawio.svg)
 
